@@ -48,6 +48,7 @@
   3. 企业邮箱官方认证的"职场情绪管理失败案例"
 
 相关链接：[https://github.com/langgenius/dify/pull/16819](https://github.com/langgenius/dify/pull/16819)
+
 ![image](https://暂缺)
 
 </details>
@@ -71,11 +72,18 @@
 - **用最少的字，许最大的愿**：只用四个英文单词，就向全球最大的代码编辑器提出了适配一个全新PC生态的宏伟请求。
 - **社区“热情”超乎想象**：该 Issue 收获了超过 1200 个“👎”。
 - **官方光速拒绝**：在社区“热烈讨论”的同时，VS Code 维护者默默地给该 Issue 贴上了 `invalid` (无效) 标签，并以 `not planned` (没计划) 的状态光速关闭，终结了这场闹剧。
+- **抽象评论区**
 
 PS：截止该事件发生时，华为自己的 IDE DevEco Studio 也没有支持鸿蒙 Next PC。
 
+来自 @orangeX21 
+  > 1. Supporting Huawei PC Harmony Next is meaningless
+  > 2. For this new Huawei PC, even at the very least, Huawei itself still needs to allow sideloading
+  > 3. HarmonyOS not allowing sideloading essentially makes it impossible for all developers to adapt. (You can't expect developers to have to buy a Huawei PC)
+
+(省流：适配了也没有用，除非你拿来当文本编辑器)
+
 相关链接：[https://github.com/microsoft/vscode/issues/249326](https://github.com/microsoft/vscode/issues/249326)
-![image](https://暂缺)
 
 </details>
 
