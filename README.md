@@ -54,7 +54,7 @@
 
 ---
 
-### 事件#003： 把 GitHub Issue 当成许愿池
+### 事件#003： Support Harmony Next PC
 **事件标签**：`华为` 
 
 <details>
